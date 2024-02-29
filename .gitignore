@@ -1,0 +1,6 @@
+sounds/
+.venv_smart_home/
+__pycache__/
+*.wav
+test.py
+tts_models/
