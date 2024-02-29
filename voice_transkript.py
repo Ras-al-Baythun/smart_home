@@ -26,7 +26,7 @@ def frage(transkript):
 
 Licht_an_SW = ["licht an", "lampe an" "licht auf"]
 Licht_aus_SW = ["licht aus", "lampe aus" "licht aus"]
-temperatur = "temperatur|grad|wetter"
+temperatur = "temperatur|grad|wetter|grat"
 nachsprechen = ["nach sprechen"]
 
 

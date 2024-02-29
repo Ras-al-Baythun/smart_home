@@ -95,10 +95,3 @@ def tts(text):
 
     # PyAudio beenden
     p.terminate()
-
-
-"""# Beispielaufruf der Funktion
-urlPiper = "http://localhost:5000"  # Beispiel-URL
-payload = {'text': "tuuuut mir leid"}
-tts(urlPiper, payload)
-"""
