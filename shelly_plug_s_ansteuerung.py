@@ -13,8 +13,10 @@ def shelly_turn_off():
     url = f"http://{shelly_ip}/relay/0?turn=off"
     requests.get(url)
 
-# Zum Einschalten
-# shelly_turn_on()
 
-# Zum Ausschalten
-# shelly_turn_off()
+if __name__ == "__main__":
+    # Zum Einschalten
+    shelly_turn_on()
+
+    # Zum Ausschalten
+    # shelly_turn_off()
