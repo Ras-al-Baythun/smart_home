@@ -1,25 +1,40 @@
+from datetime import datetime
 import requests
 import pyaudio
 from piper import PiperVoice
 
 
-# Benutzt eine API um mithilfe des Stadtnamens die Koordinaten einer Stadt zu finden
+import requests
+
+
 def get_location(city=None):
+    headers = {
+        # Benutzerdefinierter User-Agent
+        'User-Agent': 'MySmartHomeApp/1.0 (your_email@example.com)'
+    }
     try:
         if city:
             url = f"https://nominatim.openstreetmap.org/search?city={city}&format=json"
-            response = requests.get(url)
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()  # Überprüft, ob der Statuscode 200 ist (erfolgreich)
             data = response.json()
             if data:
                 return data[0]['lat'], data[0]['lon'], city
+            else:
+                print("Keine Daten für die angegebene Stadt gefunden.")
         else:
-            response = requests.get('http://ip-api.com/json/')
+            response = requests.get('http://ip-api.com/json/', headers=headers)
+            response.raise_for_status()  # Überprüft, ob der Statuscode 200 ist (erfolgreich)
             data = response.json()
             return data['lat'], data['lon'], data['city']
-    except:
-        tts("Tut mir leid, so einen Ort kann ich leider nicht finden")
-
-# Benutzt die Koordinaten, um mithilfe einer Wetterapi die Temperatur an einem Ort herauszufinden
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP-Fehler aufgetreten: {http_err}")
+    except requests.exceptions.RequestException as req_err:
+        print(f"Ein Fehler bei der Anfrage ist aufgetreten: {req_err}")
+    except ValueError as json_err:
+        print(f"Fehler beim Verarbeiten der JSON-Daten: {json_err}")
+    except Exception as e:
+        print(f"Ein allgemeiner Fehler ist aufgetreten: {e}")
 
 
 def get_weather_forecast(city=None):
@@ -49,6 +64,7 @@ def get_weather_forecast(city=None):
 
 
 def get_ort_für_temperaturabfrage(transkript):
+    print("hat geklappt")
     wörter = transkript.split()
     for i, wort in enumerate(wörter):
         if wort.lower() == "in" and i + 1 < len(wörter):
@@ -57,7 +73,26 @@ def get_ort_für_temperaturabfrage(transkript):
     else:
         return get_weather_forecast()
 
+
 # Benutzt das Text to speech Modell von Thorsten um einen bestimmten Text verbal auszugeben
+
+
+def get_current_time_for_tts():
+    # Get the current time
+    now = datetime.now()
+
+    # Extract hours and minutes
+    hours = now.hour
+    minutes = now.minute
+
+    # Format minutes correctly
+    if minutes < 10:
+        minutes_str = str(minutes)
+    else:
+        minutes_str = f"{minutes:02d}"
+
+    # Return the formatted string
+    return tts(f"Es ist {hours} Uhr {minutes_str}")
 
 
 def tts(text):
@@ -88,4 +123,6 @@ def tts(text):
 
 
 if __name__ == "__main__":
-    tts("Das hier ist eine Testaudio. Ich hoffe ihr versteht mich alle gut und das hier alles passt. Ich wünsche euch alle einen schönen Tag.")
+    # uhrzeit = get_current_time_for_tts()
+    # get_weather_forecast("stuttgart")
+    tts("kake ich nicht normal, bei so langen und vollen sätzen ab? ich bin verwirrt")

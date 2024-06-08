@@ -1,7 +1,7 @@
 import requests
 
 # Ersetzen Sie dies mit der IP-Adresse Ihres Shelly Plug S
-shelly_ip = "192.168.2.225"
+shelly_ip = "100.81.235.41"
 
 
 def shelly_turn_on():
