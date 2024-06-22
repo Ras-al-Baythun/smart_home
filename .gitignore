@@ -4,3 +4,4 @@ __pycache__/
 *.wav
 test.py
 tts_models/
+intent_model/
