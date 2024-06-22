@@ -125,4 +125,4 @@ def tts(text):
 if __name__ == "__main__":
     # uhrzeit = get_current_time_for_tts()
     # get_weather_forecast("stuttgart")
-    tts("kake ich nicht normal, bei so langen und vollen sätzen ab? ich bin verwirrt")
+    tts("Test, ich spreche jetzt")
