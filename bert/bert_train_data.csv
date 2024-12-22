@@ -1,0 +1,471 @@
+text,label
+"Schalte das Licht ein",1
+"Mach das Licht an",1
+"Licht an",1
+"Mach bitte das Licht an",1
+"Kannst du das Licht einschalten?",1
+"Das Licht soll an sein",1
+"Schalte das Licht an, bitte",1
+"Licht einschalten",1
+"Licht bitte an",1
+"Bitte Licht anmachen",1
+"Licht einschalten bitte",1
+"Mach die Lampe an",1
+"Kannst du das Licht anmachen?",1
+"Schalte die Lampe ein",1
+"Licht aktivieren",1
+"Licht jetzt an",1
+"Mach das Licht jetzt an",1
+"Licht anmachen bitte",1
+"Licht ein",1
+"Bitte das Licht anmachen",1
+"Kannst du das Licht anmachen",1
+"Licht bitte einschalten",1
+"Schalte bitte das Licht ein",1
+"Licht jetzt einschalten",1
+"Mach das Licht an jetzt",1
+"Bitte Licht einschalten",1
+"Das Licht bitte einschalten",1
+"Kannst du das Licht anschalten?",1
+"Schalte die Lichter ein",1
+"Bitte die Lampe anmachen",1
+"Licht bitte aktivieren",1
+"Licht einschalten jetzt",1
+"Mach die Lampe jetzt an",1
+"Schalte bitte das Licht an",1
+"Licht anmachen",1
+"Bitte die Lichter einschalten",1
+"Mach das Licht an bitte",1
+"Licht aktivieren jetzt",1
+"Bitte die Lampe einschalten",1
+"Licht an, bitte",1
+"Das Licht jetzt anmachen",1
+"Licht bitte jetzt einschalten",1
+"Kannst du die Lampe anmachen?",1
+"Schalte das Licht ein, bitte",1
+"Die Lichter einschalten",1
+"Licht an, mach",1
+"Bitte das Licht aktivieren",1
+"Licht bitte an",1
+"Licht einschalten, danke",1
+"Mach das Licht an, bitte",1
+"Schalte das Licht aus",2
+"Mach das Licht aus",2
+"Licht aus",2
+"Mach bitte das Licht aus",2
+"Kannst du das Licht ausschalten?",2
+"Das Licht soll aus sein",2
+"Schalte das Licht aus, bitte",2
+"Licht ausschalten",2
+"Licht bitte aus",2
+"Bitte Licht ausmachen",2
+"Licht ausschalten bitte",2
+"Mach die Lampe aus",2
+"Kannst du das Licht ausmachen?",2
+"Schalte die Lampe aus",2
+"Licht deaktivieren",2
+"Licht jetzt aus",2
+"Mach das Licht jetzt aus",2
+"Licht ausmachen bitte",2
+"Licht aus",2
+"Bitte das Licht ausmachen",2
+"Kannst du das Licht ausmachen",2
+"Licht bitte ausschalten",2
+"Schalte bitte das Licht aus",2
+"Licht jetzt ausschalten",2
+"Mach das Licht aus jetzt",2
+"Bitte Licht ausschalten",2
+"Das Licht bitte ausschalten",2
+"Kannst du das Licht abstellen?",2
+"Schalte die Lichter aus",2
+"Bitte die Lampe ausmachen",2
+"Licht bitte deaktivieren",2
+"Licht ausschalten jetzt",2
+"Mach die Lampe jetzt aus",2
+"Schalte bitte das Licht aus",2
+"Licht ausmachen",2
+"Bitte die Lichter ausschalten",2
+"Mach das Licht aus bitte",2
+"Licht deaktivieren jetzt",2
+"Bitte die Lampe ausschalten",2
+"Licht aus, bitte",2
+"Das Licht jetzt ausmachen",2
+"Licht bitte jetzt ausschalten",2
+"Kannst du die Lampe ausmachen?",2
+"Schalte das Licht aus, bitte",2
+"Die Lichter ausschalten",2
+"Licht aus, mach",2
+"Bitte das Licht deaktivieren",2
+"Licht bitte aus",2
+"Licht ausschalten, danke",2
+"Mach das Licht aus, bitte",2
+"Wie ist das Wetter in Berlin?",3
+"Was ist die Temperatur draußen?",3
+"Wie warm ist es?",3
+"Wetter heute?",3
+"Wie kalt ist es draußen?",3
+"Temperatur in Paris?",3
+"Was ist das Wetter?",3
+"Wie heiß ist es?",3
+"Wie ist das Wetter jetzt?",3
+"Kannst du mir die Temperatur sagen?",3
+"Temperatur in Tokio?",3
+"Wie ist das Wetter?",3
+"Wie ist die Temperatur?",3
+"Wetterbericht bitte",3
+"Wie ist die Temperatur draußen?",3
+"Kannst du mir das Wetter sagen?",3
+"Wie ist die Temperatur in Berlin?",3
+"Wie ist das Wetter heute?",3
+"Wie warm ist es draußen?",3
+"Was ist die Temperatur?",3
+"Temperatur draußen?",3
+"Wettervorhersage?",3
+"Wie kalt ist es?",3
+"Wie heiß ist es draußen?",3
+"Wetter Berlin?",3
+"Wie ist die Temperatur jetzt?",3
+"Wetter bitte",3
+"Temperaturbericht?",3
+"Was ist die Temperatur jetzt?",3
+"Wettervorhersage bitte",3
+"Wie warm ist es jetzt?",3
+"Wie kalt ist es jetzt?",3
+"Wetter in Berlin?",3
+"Temperatur heute?",3
+"Wetterbericht jetzt",3
+"Wie heiß ist es jetzt?",3
+"Temperatur jetzt?",3
+"Wettervorhersage heute",3
+"Wie warm ist es heute?",3
+"Was ist das Wetter draußen?",3
+"Wie kalt ist es heute?",3
+"Wie heiß ist es heute?",3
+"Wettervorhersage jetzt",3
+"Temperatur in Berlin?",3
+"Wie ist das Wetter draußen?",3
+"Wetterbericht draußen",3
+"Was ist die Temperatur jetzt?",3
+"Wie ist die Temperatur draußen jetzt?",3
+"Sprich mir nach",4
+"Wiederhole nach mir",4
+"Sag das nach",4
+"Wiederhol das",4
+"Sag das nochmal",4
+"Bitte wiederholen",4
+"Kannst du das wiederholen?",4
+"Sprich nach mir",4
+"Wiederhol es",4
+"Sag mir das nach",4
+"Kannst du das nachsagen?",4
+"Bitte nachsprechen",4
+"Kannst du das wiederholen",4
+"Sprich das nach",4
+"Sag mir das nochmal",4
+"Kannst du das wiederholen bitte?",4
+"Bitte wiederholen",4
+"Wiederhole bitte",4
+"Sag es nochmal",4
+"Kannst du das sagen?",4
+"Sprich mir bitte nach",4
+"Kannst du nachsagen?",4
+"Bitte sag das",4
+"Wiederhol mir das",4
+"Sprich das nochmal",4
+"Sag das bitte",4
+"Kannst du das nochmal sagen?",4
+"Wiederhol es bitte",4
+"Sprich nach",4
+"Kannst du es sagen?",4
+"Wiederhol es bitte",4
+"Sag mir das",4
+"Bitte sag es nochmal",4
+"Kannst du das sagen?",4
+"Sprich mir das nach",4
+"Wiederhol nach mir",4
+"Sag das bitte nochmal",4
+"Kannst du das bitte wiederholen?",4
+"Sprich das bitte nach",4
+"Sag es bitte nochmal",4
+"Kannst du es wiederholen?",4
+"Wiederhol bitte nach mir",4
+"Sprich mir das bitte nach",4
+"Sag es nochmal bitte",4
+"Kannst du es nachsagen?",4
+"Wiederhol mir das bitte",4
+"Sag mir das bitte",4
+"Kannst du das nochmal wiederholen?",4
+"Wiederhol es mir",4
+"Sprich bitte nach",4
+"Sag das nochmal bitte",4
+"Wie spät ist es?",5
+"Was ist die aktuelle Uhrzeit?",5
+"Kannst du mir die Uhrzeit sagen?",5
+"Wie viel Uhr ist es jetzt?",5
+"Welche Uhrzeit haben wir?",5
+"Wie spät ist es in Tokio?",5
+"Wie viel Uhr ist es in Berlin?",5
+"Kannst du mir die Uhrzeit in Paris sagen?",5
+"Wie spät ist es jetzt in London?",5
+"Welche Uhrzeit haben wir in Madrid?",5
+"Wie spät ist es gerade?",5
+"Wie viel Uhr ist es?",5
+"Kannst du mir die Zeit sagen?",5
+"Was zeigt die Uhr?",5
+"Wie spät ist es aktuell?",5
+"Wie viel Uhr haben wir jetzt?",5
+"Kannst du mir die aktuelle Zeit sagen?",5
+"Was ist die momentane Uhrzeit?",5
+"Welche Zeit ist es?",5
+"Wie viel Uhr ist es gerade?",5
+"Wie spät ist es in Berlin?",5
+"Was ist die Uhrzeit jetzt?",5
+"Kannst du mir die Uhrzeit sagen?",5
+"Wie viel Uhr ist es?",5
+"Wie spät haben wir?",5
+"Was ist die Uhrzeit?",5
+"Wie viel Uhr haben wir?",5
+"Wie spät ist es gerade jetzt?",5
+"Kannst du die Uhrzeit sagen?",5
+"Was ist die aktuelle Zeit?",5
+"Wie viel Uhr ist es jetzt gerade?",5
+"Wie spät ist es jetzt bitte?",5
+"Welche Uhrzeit ist es?",5
+"Kannst du mir die Uhrzeit sagen bitte?",5
+"Was ist die aktuelle Uhrzeit?",5
+"Wie viel Uhr ist es jetzt gerade?",5
+"Wie spät ist es jetzt gerade?",5
+"Kannst du mir sagen, wie spät es ist?",5
+"Was zeigt die Uhrzeit?",5
+"Welche Zeit haben wir?",5
+"Wie viel Uhr ist es in Tokio?",5
+"Was ist die Uhrzeit?",5
+"Wie spät ist es aktuell?",5
+"Wie viel Uhr ist es momentan?",5
+"Kannst du mir die aktuelle Uhrzeit sagen?",5
+"Wie spät ist es gerade?",5
+"Was ist die aktuelle Zeit?",5
+"Wie viel Uhr ist es jetzt?",5
+"Wie spät haben wir es?",5
+
+"Schalte das Licht ein",1
+"Mach das Licht an",1
+"Licht an",1
+"Mach bitte das Licht an",1
+"Kannst du das Licht einschalten?",1
+"Das Licht soll an sein",1
+"Schalte das Licht an, bitte",1
+"Licht einschalten",1
+"Licht bitte an",1
+"Bitte Licht anmachen",1
+"Licht einschalten bitte",1
+"Mach die Lampe an",1
+"Kannst du das Licht anmachen?",1
+"Schalte die Lampe ein",1
+"Licht aktivieren",1
+"Licht jetzt an",1
+"Mach das Licht jetzt an",1
+"Licht anmachen bitte",1
+"Licht ein",1
+"Bitte das Licht anmachen",1
+"Kannst du das Licht anmachen",1
+"Licht bitte einschalten",1
+"Schalte bitte das Licht ein",1
+"Licht jetzt einschalten",1
+"Mach das Licht an jetzt",1
+"Bitte Licht einschalten",1
+"Das Licht bitte einschalten",1
+"Kannst du das Licht anschalten?",1
+"Schalte die Lichter ein",1
+"Bitte die Lampe anmachen",1
+"Licht bitte aktivieren",1
+"Licht einschalten jetzt",1
+"Mach die Lampe jetzt an",1
+"Schalte bitte das Licht an",1
+"Licht anmachen",1
+"Bitte die Lichter einschalten",1
+"Mach das Licht an bitte",1
+"Licht aktivieren jetzt",1
+"Bitte die Lampe einschalten",1
+"Licht an, bitte",1
+"Das Licht jetzt anmachen",1
+"Licht bitte jetzt einschalten",1
+"Kannst du die Lampe anmachen?",1
+"Schalte das Licht ein, bitte",1
+"Die Lichter einschalten",1
+"Licht an, mach",1
+"Bitte das Licht aktivieren",1
+"Licht bitte an",1
+"Licht einschalten, danke",1
+"Mach das Licht an, bitte",1
+"Schalte das Licht aus",2
+"Mach das Licht aus",2
+"Licht aus",2
+"Mach bitte das Licht aus",2
+"Kannst du das Licht ausschalten?",2
+"Das Licht soll aus sein",2
+"Schalte das Licht aus, bitte",2
+"Licht ausschalten",2
+"Licht bitte aus",2
+"Bitte Licht ausmachen",2
+"Licht ausschalten bitte",2
+"Mach die Lampe aus",2
+"Kannst du das Licht ausmachen?",2
+"Schalte die Lampe aus",2
+"Licht deaktivieren",2
+"Licht jetzt aus",2
+"Mach das Licht jetzt aus",2
+"Licht ausmachen bitte",2
+"Licht aus",2
+"Bitte das Licht ausmachen",2
+"Kannst du das Licht ausmachen",2
+"Licht bitte ausschalten",2
+"Schalte bitte das Licht aus",2
+"Licht jetzt ausschalten",2
+"Mach das Licht aus jetzt",2
+"Bitte Licht ausschalten",2
+"Das Licht bitte ausschalten",2
+"Kannst du das Licht abstellen?",2
+"Schalte die Lichter aus",2
+"Bitte die Lampe ausmachen",2
+"Licht bitte deaktivieren",2
+"Licht ausschalten jetzt",2
+"Mach die Lampe jetzt aus",2
+"Schalte bitte das Licht aus",2
+"Licht ausmachen",2
+"Bitte die Lichter ausschalten",2
+"Mach das Licht aus bitte",2
+"Licht deaktivieren jetzt",2
+"Bitte die Lampe ausschalten",2
+"Licht aus, bitte",2
+"Das Licht jetzt ausmachen",2
+"Licht bitte jetzt ausschalten",2
+"Kannst du die Lampe ausmachen?",2
+"Schalte das Licht aus, bitte",2
+"Die Lichter ausschalten",2
+"Licht aus, mach",2
+"Bitte das Licht deaktivieren",2
+"Licht bitte aus",2
+"Licht ausschalten, danke",2
+"Mach das Licht aus, bitte",2
+"Wie ist das Wetter in Berlin?",3
+"Was ist die Temperatur draußen?",3
+"Wie warm ist es?",3
+"Wetter heute?",3
+"Wie kalt ist es draußen?",3
+"Temperatur in Paris?",3
+"Was ist das Wetter?",3
+"Wie heiß ist es?",3
+"Wie ist das Wetter jetzt?",3
+"Kannst du mir die Temperatur sagen?",3
+"Temperatur in Tokio?",3
+"Wie ist das Wetter?",3
+"Wie ist die Temperatur?",3
+"Wetterbericht bitte",3
+"Wie ist die Temperatur draußen?",3
+"Kannst du mir das Wetter sagen?",3
+"Wie ist die Temperatur in Berlin?",3
+"Wie ist das Wetter heute?",3
+"Wie warm ist es draußen?",3
+"Was ist die Temperatur?",3
+"Temperatur draußen?",3
+"Wettervorhersage?",3
+"Wie kalt ist es?",3
+"Wie heiß ist es draußen?",3
+"Wetter Berlin?",3
+"Wie ist die Temperatur jetzt?",3
+"Wetter bitte",3
+"Temperaturbericht?",3
+"Was ist die Temperatur jetzt?",3
+"Wettervorhersage bitte",3
+"Wie warm ist es jetzt?",3
+"Wie kalt ist es jetzt?",3
+"Wetter in Berlin?",3
+"Temperatur heute?",3
+"Wetterbericht jetzt",3
+"Wie heiß ist es jetzt?",3
+"Temperatur jetzt?",3
+"Wettervorhersage heute",3
+"Wie warm ist es heute?",3
+"Was ist das Wetter draußen?",3
+"Wie kalt ist es heute?",3
+"Wie heiß ist es heute?",3
+"Wettervorhersage jetzt",3
+"Temperatur in Berlin?",3
+"Wie ist das Wetter draußen?",3
+"Wetterbericht draußen",3
+"Was ist die Temperatur jetzt?",3
+"Wie ist die Temperatur draußen jetzt?",3
+"Sprich mir nach",4
+"Wiederhole nach mir",4
+"Sag das nach",4
+"Wiederhol das",4
+"Sag das nochmal",4
+"Bitte wiederholen",4
+"Kannst du das wiederholen?",4
+"Sprich nach mir",4
+"Wiederhol es",4
+"Sag mir das nach",4
+"Kannst du das nachsagen?",4
+"Bitte nachsprechen",4
+"Kannst du das wiederholen",4
+"Sprich das nach",4
+"Sag mir das nochmal",4
+"Kannst du das wiederholen bitte?",4
+"Bitte wiederholen",4
+"Wiederhole bitte",4
+"Sag es nochmal",4
+"Kannst du das sagen?",4
+"Sprich mir bitte nach",4
+"Kannst du nachsagen?",4
+"Bitte sag das",4
+"Wiederhol mir das",4
+"Sprich das nochmal",4
+"Sag das bitte",4
+"Kannst du das nochmal sagen?",4
+"Wiederhol es bitte",4
+"Sprich nach",4
+"Kannst du es sagen?",4
+"Wiederhol es bitte",4
+"Sag mir das",4
+"Bitte sag es nochmal",4
+"Kannst du das sagen?",4
+"Sprich mir das nach",4
+"Wiederhol nach mir",4
+"Sag das bitte nochmal",4
+"Kannst du das bitte wiederholen?",4
+"Sprich das bitte nach",4
+"Sag es bitte nochmal",4
+"Kannst du es wiederholen?",4
+"Wiederhol bitte nach mir",4
+"Sprich mir das bitte nach",4
+"Sag es nochmal bitte",4
+"Kannst du es nachsagen?",4
+"Wiederhol mir das bitte",4
+"Sag mir das bitte",4
+"Kannst du das nochmal wiederholen?",4
+"Wiederhol es mir",4
+"Sprich bitte nach",4
+"Sag das nochmal bitte",4
+"Wie spät ist es?",5
+"Was ist die aktuelle Uhrzeit?",5
+"Kannst du mir die Uhrzeit sagen?",5
+"Wie viel Uhr ist es jetzt?",5
+"Welche Uhrzeit haben wir?",5
+"Wie spät ist es in Tokio?",5
+"Wie viel Uhr ist es in Berlin?",5
+"Kannst du mir die Uhrzeit in Paris sagen?",5
+"Wie spät ist es jetzt in London?",5
+"Welche Uhrzeit haben wir in Madrid?",5
+"Wie spät ist es gerade?",5
+"Wie viel Uhr ist es?",5
+"Kannst du mir die Zeit sagen?",5
+"Was zeigt die Uhr?",5
+"Wie spät ist es aktuell?",5
+"Wie viel Uhr haben wir jetzt?",5
+"Kannst du mir die aktuelle Zeit sagen?",5
+"Was ist die momentane Uhrzeit?",5
+"Welche Zeit ist es?",5
+"Wie viel Uhr ist es gerade?",5
+"Wie
+

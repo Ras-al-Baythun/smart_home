@@ -16,7 +16,7 @@ from transformers import BertTokenizer, BertForSequenceClassification
 
 # Überprüft das Transkript, ob der Nutzer ein Befehl aufgeben will
 def frage(transkript):
-    if "hallo zimmer" in transkript:
+    if "hallo zimmer" in transkript or "hallo zusammen" in transkript:
         tts("Wie kann ich dir helfen?")
         return True
     else:
@@ -40,14 +40,6 @@ label_dict = {
 }
 
 # Funktionsdefinitionen
-
-
-def shelly_turn_on():
-    shelly_turn_on
-
-
-def shelly_turn_off():
-    shelly_turn_off
 
 
 def repeat_after_me(message):

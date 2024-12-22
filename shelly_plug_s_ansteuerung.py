@@ -1,7 +1,7 @@
 import requests
 
 # Ersetzen Sie dies mit der IP-Adresse Ihres Shelly Plug S
-shelly_ip = "100.81.235.41"
+shelly_ip = "100.80.255.116"
 
 
 def shelly_turn_on():
@@ -16,7 +16,7 @@ def shelly_turn_off():
 
 if __name__ == "__main__":
     # Zum Einschalten
-    shelly_turn_on()
+    # shelly_turn_on()
 
     # Zum Ausschalten
-    # shelly_turn_off()
+    shelly_turn_off()

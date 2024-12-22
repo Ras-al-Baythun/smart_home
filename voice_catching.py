@@ -10,7 +10,10 @@ def record_audio():
     Nimmt ein Wort oder mehrere Worte vom Mikrofon auf und
     gibt die Daten als ein Array von signierten Shorts zurück.
     """
-    p = pyaudio.PyAudio()  # Initialisiert PyAudio
+
+    # PyAudio initialisieren
+    p = pyaudio.PyAudio()
+
     stream = p.open(format=pyaudio.paInt16, channels=1, rate=44100,
                     input=True, frames_per_buffer=1024)  # Öffnet den Audiostream mit spezifischen Parametern
     print("Please speak. Recording will start when you speak.")
